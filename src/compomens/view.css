@@ -1,0 +1,57 @@
+.stylGrid{
+    height: 25vh;
+    width: 55%;
+    border: solid;
+    margin-left: 30%;
+}
+
+.stylList{
+    border: solid;
+    margin-bottom: 2vh;
+    height: inherit;
+}
+.searchInput{
+    margin-right: 3vh;
+    height: 5vh;
+    width: 30vh;
+    margin-top: 3vh;
+}
+.icons{
+    margin-right: 1vh;
+    font-size: 4vh;
+    cursor: pointer;
+}
+.typestl{
+    font-size: medium;
+    cursor: pointer;
+    margin-bottom: 1vh;
+}
+.img{
+    width: 70%;
+    height: 80%;
+    margin-top: 2vh;
+    cursor: pointer;
+}
+.title{
+    margin-top: 4vh;
+    font-size: large;
+}
+.date{
+    margin-top: 2vh;
+    font-size: large;
+}
+.imgList{
+    height: 150px;
+    width: fit-content;
+    cursor: pointer;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.dateList{
+    font-size: large;
+    margin-top: 4vh;
+    margin-left: 3vh;
+}
+.inptEdit{
+    margin-top: 4vh;
+}
